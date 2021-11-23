@@ -1,0 +1,20 @@
+{
+  "name": "gulp-demo",
+  "version": "1.0.0",
+  "description": "some demo files",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "gulp"
+  ],
+  "author": "Roman Tsvetik",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-cli": "^2.3.0"
+  }
+}
